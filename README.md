@@ -1,4 +1,4 @@
-![CI](https://github.com/ionos-cloud/sdk-resources/workflows/%5B%20CI%20%5D%Container%Registry%20/%20Ruby/badge.svg)
+![CI](https://github.com/ionos-cloud/sdk-resources/workflows/%5B%20CI%20%5D%20Container%20Registry%20/%20Ruby/badge.svg)
 [![Gem Version](https://img.shields.io/gem/v/ionoscloud-container-registry)](https://rubygems.org/gems/ionoscloud-container-registry)
 [![Gitter](https://img.shields.io/gitter/room/ionos-cloud/sdk-general)](https://gitter.im/ionos-cloud/sdk-general)
 
